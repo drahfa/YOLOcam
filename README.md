@@ -3,6 +3,8 @@ YOLOcam - Running YOLO Object Detection in MATLAB via webcam
 - Copyright: Ahmad Faisal Ayob, May 2019
 - Written in MATLAB 2019a
 
+![Demo](https://raw.githubusercontent.com/drahfa/YOLOcam/master/2019-05-10%20(1).png)
+
 Requirements:
 - MATLAB 2018a and above
 - Deep Learning Toolbox
